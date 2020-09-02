@@ -424,8 +424,8 @@ ul.thumbs > li img { box-shadow:0 0 4px rgba(0, 0, 0, 0.5); }
 
 /*CSS Generated from InDesign Styles*/
 
-body, #container-wrap { background:#ededed; }
-:-webkit-full-screen { background:#ededed; }
+body, #container-wrap { background:#fff; }
+:-webkit-full-screen { background:#fff; }
 #loadIndicator span:after { padding-left:1ex; content:'loading content...'; }
 #slider { width:2048px; height:1536px; }
 .page-scale-wrap { width:2048px; height:1536px; background: #fff !important; }
@@ -506,7 +506,7 @@ body, #container-wrap { background:#ededed; }
 	background:#fff;
 }
 
-@keyframes move-left-grow-106127 {
+@keyframes move-left-grow-106064 {
 	0% {
 		transform:translate(-38px,-23px) scaleX(1.05) scaleY(1.05);
 		opacity:1;
@@ -516,7 +516,7 @@ body, #container-wrap { background:#ededed; }
 		opacity:1;
 	}
 }
-@-webkit-keyframes move-left-grow-106127 {
+@-webkit-keyframes move-left-grow-106064 {
 	0% {
 		-webkit-transform:translate(-38px,-23px) scaleX(1.05) scaleY(1.05);
 		opacity:1;
@@ -16653,7 +16653,7 @@ body, #container-wrap { background:#ededed; }
 	background:#000;
 }
 
-@keyframes move-right-grow-166271 {
+@keyframes move-right-grow-151341 {
 	0% {
 		transform:translate(0px,0px) scaleX(1) scaleY(1);
 		opacity:1;
@@ -16663,7 +16663,7 @@ body, #container-wrap { background:#ededed; }
 		opacity:1;
 	}
 }
-@-webkit-keyframes move-right-grow-166271 {
+@-webkit-keyframes move-right-grow-151341 {
 	0% {
 		-webkit-transform:translate(0px,0px) scaleX(1) scaleY(1);
 		opacity:1;
@@ -16715,7 +16715,7 @@ body, #container-wrap { background:#ededed; }
 	background:#fff;
 }
 
-@keyframes move-left-grow-166482 {
+@keyframes move-left-grow-151532 {
 	0% {
 		transform:translate(-38px,-23px) scaleX(1.05) scaleY(1.05);
 		opacity:1;
@@ -16725,7 +16725,7 @@ body, #container-wrap { background:#ededed; }
 		opacity:1;
 	}
 }
-@-webkit-keyframes move-left-grow-166482 {
+@-webkit-keyframes move-left-grow-151532 {
 	0% {
 		-webkit-transform:translate(-38px,-23px) scaleX(1.05) scaleY(1.05);
 		opacity:1;
